@@ -85,14 +85,6 @@
 | `amap_multiplescreen.apk` | 地图主应用 |
 | `mapinstaller.apk` | 地图安装应用（用于安装到系统分区，仅限安波福车机） |
 
-## 请我喝咖啡
-
-<table>
-  <tr>
-    <td align="center"><img src="./img/wxpay.png" alt="微信赞助二维码" title="微信赞助二维码" width="220" /><br>微信</td>
-    <td align="center"><img src="./img/alipay.png" alt="支付宝赞助二维码" title="支付宝赞助二维码" width="220" /><br>支付宝</td>
-  </tr>
-</table>
 
 ## 部分截图
 
@@ -111,3 +103,13 @@
 - 桌面组件
 
   ![桌面组件](./img/桌面组件.png "桌面组件")
+
+
+## 请我喝咖啡
+
+<table>
+  <tr>
+    <td align="center"><img src="./img/wxpay.png" alt="微信赞助二维码" title="微信赞助二维码" width="220" /><br>微信</td>
+    <td align="center"><img src="./img/alipay.png" alt="支付宝赞助二维码" title="支付宝赞助二维码" width="220" /><br>支付宝</td>
+  </tr>
+</table>
